@@ -1,0 +1,24 @@
+			<html> 
+			<head>
+				<title> Kurtisbygg.com</title>	
+			</head>
+			<body> style="background-color:black">
+				<h1>Byggtjänst</h1>  <h2>Creator of Kurti&Byggg Is Huzer Kurti 
+				<p>vi är en byggtjänst som kan bygga hus och mycket mer kontakta oss gärna. <br/>   </p>
+				<a href="https:/www.facebook.com/alvis.kurti.1">CLICK HERE!!</a>
+				<br><img src="HTML/Bilder/Kurtis" alt="">
+				<p> ⬇⬇ ⬇⬇  </p>
+				<hr />
+				<ul>
+				
+					</ul>		<li>+46 70-7466985</li>		 <li>+46 70-7466985</li>
+				</body>
+
+
+
+
+
+
+
+
+			</html> 
